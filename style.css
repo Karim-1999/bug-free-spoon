@@ -1,0 +1,6 @@
+.main{
+    width: 200px;
+    height: 450px;
+    background-color: #eee;
+    overflow: scroll;
+}
